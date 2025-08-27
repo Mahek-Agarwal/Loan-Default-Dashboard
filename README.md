@@ -176,7 +176,7 @@ SWITCH(TRUE(),
 
 **Snapshot placeholders:**
 
-*<img width="1366" height="780" alt="Image" src="https://github.com/user-attachments/assets/1a2d7ff6-65a7-416c-bd64-b1d0c1622c42" />
+<img width="1366" height="780" alt="Image" src="https://github.com/user-attachments/assets/1a2d7ff6-65a7-416c-bd64-b1d0c1622c42" />
 
 ### **Page 2 — Applicant Demographics & Financial Profile**
 
