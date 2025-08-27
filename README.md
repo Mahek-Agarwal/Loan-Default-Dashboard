@@ -310,5 +310,10 @@ This document summarizes the **14 key insights** derived from the Power BI loan 
 
 ---
 
+## 8) Project Summary
+This Power BI dashboard brings together loan default analytics for financial institutions, providing granular insights into borrower profiles, segment risks, loan distributions, and time-based trends. Advanced DAX calculations power dynamic reporting and risk modeling across applicant demographics, loan purposes, and credit categories, enabling risk teams to proactively spot and manage loan default threats. The project demonstrates robust data preparation, intuitive visuals, and business-targeted storytelling.
+
+
+
 
 
