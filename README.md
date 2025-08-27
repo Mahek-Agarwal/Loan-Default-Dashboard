@@ -1,5 +1,4 @@
 # Loan-Default-Dashboard 
-# Loan Default – Power BI Report
 
 **Dashboard Pages:** Loan Default & Overview · Applicant Demographics & Financial Profile · Financial Risk Matrix
 
